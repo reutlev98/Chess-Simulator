@@ -47,7 +47,9 @@ The chess_sim.sh script provides a way to:
 - 'w': Jump to the start of the game.
 - 's': Jump to the end of the game.
 - 'q': Quit the simulation.
+
 **Real-time Board Visualization**: The script displays the chessboard in real-time, updating it after each move.
+
 **Metadata Display**: Upon starting the simulation, the script displays key metadata from the PGN file, such as the players' names, event, and result.
 
   #### Python Integration
@@ -65,7 +67,7 @@ To start the chess simulation, use the following command:
 ### Example 
 ![image](https://github.com/user-attachments/assets/455606ae-8a1d-4d32-9a5b-a204f851a9ee)
 
-
+Enjoy the game !
   
 
 
